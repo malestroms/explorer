@@ -1,4 +1,15 @@
 {
 	"name": "@malestroms/explorer",
-	"version": "0.0.1"
+	"version": "1.0.0",
+	"description": "Basic Explorer commands using NodeJS",
+	"license": "MIT",
+	"repository": "malestroms/explorer",
+	"main": "index.js",
+	"keywords": [
+		"explorer",
+		"npm",
+		"package",
+		"malestroms",
+		"commands"
+	]
 }

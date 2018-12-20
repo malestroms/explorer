@@ -1,1 +1,3 @@
+@malestroms/explorer
+
 Hello world
