@@ -1,4 +1,4 @@
-#@malestroms/explorer [![](https://img.shields.io/npm/v/@malestroms/explorer.svg)](https://github.com/malestroms/explorer)
+# @malestroms/explorer [![](https://img.shields.io/npm/v/@malestroms/explorer.svg)](https://github.com/malestroms/explorer)
 
 Basic Explorer commands using Promises 
 
